@@ -1,0 +1,17 @@
+#image
+*.jpg
+*.jepg
+*.png
+
+#weight
+*.weight
+*.pt
+*.pth
+*.tar
+
+#extra
+*.csv
+*.log
+*.pdf
+*.docx
+
