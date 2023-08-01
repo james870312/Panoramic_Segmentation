@@ -4,10 +4,11 @@
 *.png
 
 #weight
-*.weight
+*.weights
 *.pt
 *.pth
 *.tar
+*.james
 
 #extra
 *.csv
@@ -16,4 +17,7 @@
 *.docx
 *.xlsx
 
+*.pyc
+*.py[cdo]
+*.swp
 
